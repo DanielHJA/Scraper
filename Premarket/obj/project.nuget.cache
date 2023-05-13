@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+LBbr2XcmP8UpfQ4tWZ4NfXge+gx4u2RV328yBhVu2mApHEYJth86bSrG4stqiKCsAeepPTCwO3vov1oD77E/Q==",
+  "success": true,
+  "projectFilePath": "/Users/danielhjartstrom/Desktop/scrape/Premarket/Premarket.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielhjartstrom/.nuget/packages/htmlagilitypack/1.11.46/htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

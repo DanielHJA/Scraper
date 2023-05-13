@@ -1,0 +1,7 @@
+/Users/danielhjartstrom/Desktop/scrape/Premarket/obj/Debug/.netframework,version=v4.8.1/Premarket.csproj.AssemblyReference.cache
+/Users/danielhjartstrom/Desktop/scrape/Premarket/obj/Debug/.netframework,version=v4.8.1/Premarket.csproj.SuggestedBindingRedirects.cache
+/Users/danielhjartstrom/Desktop/scrape/Premarket/obj/Debug/.netframework,version=v4.8.1/Premarket.exe.config
+/Users/danielhjartstrom/Desktop/scrape/Premarket/obj/Debug/.netframework,version=v4.8.1/Premarket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhjartstrom/Desktop/scrape/Premarket/obj/Debug/.netframework,version=v4.8.1/Premarket.AssemblyInfoInputs.cache
+/Users/danielhjartstrom/Desktop/scrape/Premarket/obj/Debug/.netframework,version=v4.8.1/Premarket.AssemblyInfo.cs
+/Users/danielhjartstrom/Desktop/scrape/Premarket/obj/Debug/.netframework,version=v4.8.1/Premarket.csproj.CoreCompileInputs.cache

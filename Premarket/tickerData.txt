@@ -1,0 +1,7 @@
+Name   -   Updated   -   Price   -   Volume   -   ValueChange   -   PercentageChange
+
+China Jo-Jo Drugstores Inc.   -   2023-05-12 07:59:00   -   $0.7195   -   19.02K(AH)   -   $0.02   -   2.39%
+Troika Media Group Inc.   -   2023-05-12 07:59:00   -   $0.1989   -   820.83K(AH)   -   $0.00   -   0.20%
+Polished.com Inc.   -   2023-05-12 07:48:00   -   $0.51   -   694(AH)   -   $0.02   -   4.86%
+PaxMedica Inc.   -   2023-05-12 07:58:00   -   $1.6600   -   22.83K(AH)   -   $0.01   -   0.61%
+Phoenix New Media Ltd. Cl A ADR   -   2023-05-12 06:31:00   -   $2.5400   -   120(AH)   -   $0.03   -   1.20%
